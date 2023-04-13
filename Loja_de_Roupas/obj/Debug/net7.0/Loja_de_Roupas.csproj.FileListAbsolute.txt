@@ -1,0 +1,15 @@
+C:\Users\willi\OneDrive\Documentos\POO_Material\Loja_de_Roupas\bin\Debug\net7.0\Loja_de_Roupas.exe
+C:\Users\willi\OneDrive\Documentos\POO_Material\Loja_de_Roupas\bin\Debug\net7.0\Loja_de_Roupas.deps.json
+C:\Users\willi\OneDrive\Documentos\POO_Material\Loja_de_Roupas\bin\Debug\net7.0\Loja_de_Roupas.runtimeconfig.json
+C:\Users\willi\OneDrive\Documentos\POO_Material\Loja_de_Roupas\bin\Debug\net7.0\Loja_de_Roupas.dll
+C:\Users\willi\OneDrive\Documentos\POO_Material\Loja_de_Roupas\bin\Debug\net7.0\Loja_de_Roupas.pdb
+C:\Users\willi\OneDrive\Documentos\POO_Material\Loja_de_Roupas\obj\Debug\net7.0\Loja_de_Roupas.csproj.AssemblyReference.cache
+C:\Users\willi\OneDrive\Documentos\POO_Material\Loja_de_Roupas\obj\Debug\net7.0\Loja_de_Roupas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\willi\OneDrive\Documentos\POO_Material\Loja_de_Roupas\obj\Debug\net7.0\Loja_de_Roupas.AssemblyInfoInputs.cache
+C:\Users\willi\OneDrive\Documentos\POO_Material\Loja_de_Roupas\obj\Debug\net7.0\Loja_de_Roupas.AssemblyInfo.cs
+C:\Users\willi\OneDrive\Documentos\POO_Material\Loja_de_Roupas\obj\Debug\net7.0\Loja_de_Roupas.csproj.CoreCompileInputs.cache
+C:\Users\willi\OneDrive\Documentos\POO_Material\Loja_de_Roupas\obj\Debug\net7.0\Loja_de_Roupas.dll
+C:\Users\willi\OneDrive\Documentos\POO_Material\Loja_de_Roupas\obj\Debug\net7.0\refint\Loja_de_Roupas.dll
+C:\Users\willi\OneDrive\Documentos\POO_Material\Loja_de_Roupas\obj\Debug\net7.0\Loja_de_Roupas.pdb
+C:\Users\willi\OneDrive\Documentos\POO_Material\Loja_de_Roupas\obj\Debug\net7.0\Loja_de_Roupas.genruntimeconfig.cache
+C:\Users\willi\OneDrive\Documentos\POO_Material\Loja_de_Roupas\obj\Debug\net7.0\ref\Loja_de_Roupas.dll
